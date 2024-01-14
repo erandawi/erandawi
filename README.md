@@ -2,7 +2,7 @@
 
 I'm Eranda Wijewantha, 👋
 
-A self taught web developer and student pursuing a BSc in data science with more than five years of significant banking experience.
+A student pursuing a BSc in data science with more than five years of significant banking experience.
  
 My goal is to deliver creative solutions by combining data science with my strong financial background.
 
