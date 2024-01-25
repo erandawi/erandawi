@@ -1,24 +1,53 @@
-#### Hey, 
+ ## 👋 Hello, I am Eranda Wijewantha.
 
-I'm Eranda Wijewantha, 👋
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eranda-wijewantha/)
+![](https://komarev.com/ghpvc/?username=erandawi&color=green) 
 
-A student pursuing a BSc in data science with more than five years of significant banking experience.
- 
-My goal is to deliver creative solutions by combining data science with my strong financial background.
+I'm a data science student with a strong passion for machine learning and deep learning. 🚀
 
-💬 Find me on LinkedIn ➡︎ [@eranda_wijewantha]([https://www.linkedin.com/in/mochen862/](https://www.linkedin.com/in/eranda-wijewantha/))
+---
 
-<!--
-**mochen862/mochen862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🔍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🎓 Currently pursuing a degree in data science.
+
+    💡 Passionate about exploring and implementing cutting-edge machine learning techniques.
+
+    🌐 Constantly learning and staying up-to-date with the latest developments in the field.
+
+
+
+
+### 🚀 What I Do
+
+    🤖 Love diving into the world of machine learning and building predictive models.
+
+    🧠 Fascinated by the complexities of deep learning and its applications.
+
+
+
+
+### 🛠️ Tech Stack
+
+    💻 Proficient in Python, SQL, MongoDB, Pyspark, Azure Databricks
+
+    📊 Experience in Tableau and Power BI.
+
+    🤖 Familiar with Scikit-learn, TensorFlow.
+
+
+
+
+### 🌱 Current Focus
+
+    📚 Actively working on my first-year research project.
+
+
+
+Feel free to explore my repositories and join me on this exciting journey of data and algorithms! 🚀
+
+---
+---
+
+
