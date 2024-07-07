@@ -41,7 +41,7 @@ I'm a data science student with a strong passion for machine learning and deep l
 
 ### 🌱 Current Focus
 
-    📚 Actively working on my first-year research project.
+    📚 Actively working on my second-year research project.
 
 
 
