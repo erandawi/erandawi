@@ -6,16 +6,13 @@
 
 <table align="center">
   <tr>
-    <td width="60%" align="left">
-      - 🌱 I’m currently studying Deep Learning and MLOps <br>
-      - 🧑‍🎓 I’m an Undergraduate at NIBM, pursuing a BSc in Data Science <br>
-      - 💬 Currently working on: 
-        <ul>
-          <li>Small-scale machine learning freelancing projects</li>
-          <li>Tutorials related to My Data Science journey</li>
-        </ul>
-      - 📫 Reach me at **erandawijewantha@icloud.com** <br>
-      - ⚡ Fun fact: **Call me Skye**
+    <td width="70%" align="left">
+      - 🌱 I’m currently studying Deep Learning and MLOps <br></br>
+      - 🧑‍🎓 I’m an Undergraduate at NIBM<br></br>
+      - 💥 I do freelancing data science projects. <br></br>
+      - 🎥 Check out my YouTube channel "Skye's Data Lab" <br></br>
+      - 📫 Reach me at erandawijewantha@icloud.com<br></br>
+      - ⚡ Fun fact: Call me Skye</br>
     </td>
     <td width="50%" align="center">
       <img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
