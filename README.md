@@ -1,56 +1,18 @@
- ## 👋 Hello, I am Eranda Wijewantha.
+<p align="center" ><img src = "https://media.giphy.com/media/SwozIcDoDpg48ZwEmT/giphy.gif" width = 100px></p> <h1 align="center">Hi 👋, I'm Eranda Wijewantha</h1> <h3 align="center">Data Science Enthusiast | Machine Learning | Undergraduate Bsc Data Science | Freelancer</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p> <table align="center"> <tr border="none"> <td width="50%" align="left">
+🌱 I’m currently studying Deep Learning and MLOps with a special passion for Generative AI
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eranda-wijewantha/)
-![](https://komarev.com/ghpvc/?username=erandawi&color=green) 
+🧑‍🎓 I’m an Undergraduate at NIBM, pursuing a BSc in Data Science
 
-I'm a data science student with a strong passion for machine learning and deep learning. 🚀
+💬 Currently working on
 
----
+Small-scale machine learning freelancing projects
+Tutorials related to Data Science & Machine Learning
+📫 Reach me at erandawijewantha@icloud.com
 
+⚡ Fun fact You can call me Skye
 
-### 🔍 About Me
-
-    🎓 Currently pursuing a degree in data science.
-
-    💡 Passionate about exploring and implementing cutting-edge machine learning techniques.
-
-    🌐 Constantly learning and staying up-to-date with the latest developments in the field.
-
-
-
-
-### 🚀 What I Do
-
-    🤖 Love diving into the world of machine learning and building predictive models.
-
-    🧠 Fascinated by the complexities of deep learning and its applications.
-
-
-
-
-### 🛠️ Tech Stack
-
-    💻 Proficient in Python, SQL, MongoDB, Pyspark, Azure Databricks
-
-    📊 Experience in Tableau and Power BI.
-
-    🤖 Familiar with Scikit-learn, TensorFlow.
-
-
-
-
-### 🌱 Current Focus
-
-    📚 Actively working on my second-year research project.
-
-
-
-Feel free to explore my repositories and join me on this exciting journey of data and algorithms! 🚀
-
----
----
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erandawi&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erandawi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</td> <td width="50%" align="center"> <img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"> </td> </tr> </table>
+<h3 align="center">My Statistics:</h3> <p align="center"> <table align="center"> <tr border="none"> <td width="50%" align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" /> <br></br> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> </td> <td width="50%" align="center"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> </td> </tr> </table>
+<h3 align="center">Connect with me:</h3> <p align="center"> <a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="YouTube Channel" height="50" width="50" /></a> <a href="https://linkedin.com/in/eranda-wijewantha" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn Profile" height="50" width="50" /></a> </p>
+<h3 align="center">Languages and Tools:</h3> <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jupyter-Light.svg" alt="jupyter" width="50" height="50"/> </a> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg" alt="tensorflow" width="50" height="50"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg" alt="pytorch" width="50" height="50"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="postgresql" width="50" height="50"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="50" height="50"/> </a> <a href="https://www.kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="kubernetes" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/> </a> </p>
+<h3 align="center">Support:</h3> <p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
