@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Eranda Wijewantha</h1>
+<h1 align="center">
+  <svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" text-anchor="middle" dy=".35em" font-size="24" fill="black">
+      Hi 👋, I'm Eranda Wijewantha
+      <animate attributeName="textLength" from="0" to="300" dur="4s" repeatCount="indefinite" />
+    </text>
+  </svg>
+</h1>
 <h3 align="center">Data Science Enthusiast | Machine Learning | Undergraduate BSc Data Science | Freelancer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erandawi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
