@@ -6,7 +6,7 @@
     </text>
   </svg>
 </h1>
-<h3 align="center">Data Science Enthusiast | Machine Learning | Undergraduate BSc Data Science | Freelancer</h3>
+<h3 align="center">Aspiring Data Analyst | Data Science & ML Enthusiast | Undergraduate BSc Data Science | Freelancer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erandawi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -14,7 +14,7 @@
 <table align="center">
   <tr>
     <td width="70%" align="left">
-      - 🌱 I’m currently studying Deep Learning and MLOps <br></br>
+      - 🌱 I’m currently studying Data Analytics, ML ,DL and MLOps <br></br>
       - 🧑‍🎓 I’m an Undergraduate at NIBM<br></br>
       - 💥 I do freelancing data science projects. <br></br>
       - 🎥 Check out my YouTube channel "Skye's Data Lab" <br></br>
@@ -85,7 +85,20 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="Linux" width="50" height="50"/> 
   </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Excel-Light.svg" alt="Excel" width="50" height="50"/> 
+  </a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Database-Light.svg" alt="SQL" width="50" height="50"/> 
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PowerBI.svg" alt="Power BI" width="50" height="50"/> 
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Tableau.svg" alt="Tableau" width="50" height="50"/> 
+  </a>
 </p>
+
 
 ---
 
