@@ -6,7 +6,7 @@
     </text>
   </svg>
 </h1>
-<h3 align="center">Aspiring Data Analyst | Data Science & ML Enthusiast | Undergraduate BSc Data Science | Freelancer</h3>
+<h3 align="center">Data Analyst | Data Science & ML Enthusiast | MLops | Freelancer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erandawi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -14,12 +14,11 @@
 <table align="center">
   <tr>
     <td width="70%" align="left">
-      - 🌱 I’m currently studying Data Analytics, ML ,DL and MLOps <br></br>
+      - 🌱 I’m currently working as Data Analyst <br></br>
       - 🧑‍🎓 I’m an Undergraduate at NIBM<br></br>
       - 💥 I do freelancing data science projects. <br></br>
       - 🎥 Check out my YouTube channel "Skye's Data Lab" <br></br>
       - 📫 Reach me at erandawijewantha@icloud.com<br></br>
-      - ⚡ Fun fact: Call me Skye</br>
     </td>
     <td width="50%" align="center">
       <img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
@@ -91,13 +90,6 @@
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/database.png" alt="SQL" width="50" height="50"/> 
 </a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/> 
-</a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="50" height="50"/> 
-</a>
-
   </a>
 </p>
 
