@@ -1,104 +1,69 @@
-<h1 align="center">
-  <svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="50%" text-anchor="middle" dy=".35em" font-size="24" fill="black">
-      Hi 👋, I'm Eranda Wijewantha
-      <animate attributeName="textLength" from="0" to="300" dur="4s" repeatCount="indefinite" />
-    </text>
-  </svg>
-</h1>
-<h3 align="center">Data Analyst | Data Science & ML Enthusiast | MLops | Freelancer</h3>
+<h1 align="center">Hey there! 👋 I'm Eranda Wijewantha</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=erandawi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
 
-<table align="center">
-  <tr>
-    <td width="70%" align="left">
-      - 🌱 I’m currently working as Data Analyst <br></br>
-      - 🧑‍🎓 I’m an Undergraduate at NIBM<br></br>
-      - 💥 I do freelancing data science projects. <br></br>
-      - 🎥 Check out my YouTube channel "Skye's Data Lab" <br></br>
-      - 📫 Reach me at erandawijewantha@icloud.com<br></br>
-    </td>
-    <td width="50%" align="center">
-      <img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
-    </td>
-  </tr>
-</table>
-
----
-
-<h3 align="center">My Statistics:</h3>
 <p align="center">
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=erandawi&theme=dark&show_icons=true&count_private=true" />
-      <br><br>
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=erandawi&theme=dark&hide_border=false" />
-    </td>
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=erandawi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-    </td>
-  </tr>
-</table>
+  <strong>Data Analyst</strong> | <strong>Freelance Data Scientist</strong><br>
+  I transform raw data into automated, intelligent business systems.
 </p>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+## 🚀 About Me
+
+🎯 I specialize in end-to-end machine learning workflows — from data ingestion to model deployment.  
+🧠 With a strong foundation in ML, DL, and MLOps, I build intelligent, production-ready systems that drive impact.  
+🤝 I'm open to **freelance & contract** roles where I can deliver data-driven solutions.  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <a href= "https://www.youtube.com/@skye5107" target="_blank">
-    <img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="YouTube Channel" height="50" width="50" />
-  </a>
-  <a href= "https://www.linkedin.com/in/eranda-wijewantha/" target="_blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn Profile" height="50" width="50" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg" alt="TensorFlow" width="50" height="50"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg" alt="PyTorch" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="PostgreSQL" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="50" height="50"/> 
-  </a> 
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes" width="50" height="50"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="Linux" width="50" height="50"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/> 
-</a>
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/database.png" alt="SQL" width="50" height="50"/> 
-</a>
-  </a>
-</p>
+## 💡 What I Can Do for You
 
+- ✅ Build, train & deploy ML/DL models into production  
+- 🔄 Automate end-to-end pipelines using MLOps tools  
+- 📈 Analyze & visualize data for actionable business insights  
+- 🧪 Develop custom solutions for business forecasting, classification, clustering & recommendation systems  
+- ⚙️ Set up CI/CD pipelines for data science workflows  
+- 🌍 Collaborate remotely for startups, agencies, or enterprise teams  
 
 ---
 
-<h3 align="center">Support:</h3>
+## 📬 Contact Me
+
 <p align="center">
-  <a href= "https://buymeacoffee.com/erandawi?new=1">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
+  <a href="erandalakshan3567@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="www.linkedin.com/in/eranda-wijewantha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center"><em>Let’s connect and create data-driven success stories 🚀</em></p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" height="160">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" height="150">
 </p>
